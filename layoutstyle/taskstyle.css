@@ -1,0 +1,276 @@
+.logo img{
+	width: 101px;
+    height: 45px;
+    padding-left:100px;
+    padding-bottom:10px;
+    float: left;
+}
+.menu{
+	padding:0px 100px;
+}
+.menu ul li{
+     list-style:none;
+     float:left;
+     position:relative;
+
+}
+.menu ul{
+	float:right;
+}
+.menu ul li a{
+	text-decoration:none;
+	border:1px solid;
+	border-color: white;
+    background-color: white;
+    color:#3e3a3ac9;
+    padding-bottom:16px;
+    font-family: 'Noto Sans HK', sans-serif; 
+}
+.menu li span img{
+	width: 19px;
+    height: 19px;
+    float:left;
+}
+.menu ul li a:hover{
+	background-color:#58555530;
+	border: 20px solid;
+	border-bottom:none;
+	border-color:#b9b3b300;
+}
+
+.mycart{
+	text-align:center;
+	padding: 0px 21px;
+}
+.item1{
+	padding:0px 8px;
+}
+.item2{
+	padding:0px 37px;
+}
+
+.item4{
+	padding:0px 37px;
+ }
+.wrapper1 img{
+	
+	width:1519px;
+	height:330px;
+	margin-left:-22px;
+	margin-right:-22px;
+ }
+.header1, .header2, .header6, .header7, .header8{
+	font-family:'Open Sans', sans-serif;
+	color:#e1703ae8;
+	font-size:25px; 
+ }
+.paragraph1, .paragraph3{
+	border: 240px solid;
+	border-color:white;
+	border-top:none;
+	border-bottom:none;
+	font-size:18px;
+	color:#0000006e;
+	font-weight:bold;
+	font-family:'Open Sans', sans-serif;  
+ }
+.wrapper2 img{
+	width:1519px;
+	height:185px;
+	margin-left:-22px;
+	margin-right:-22px;
+ }
+
+.wrapper3 img{
+	width: 669px;
+    height: 400px;
+    border: 1px solid;
+    border-color:white;
+    border-radius:100%;
+
+ }
+
+.chart1,.chart3,.chart4{
+	border:1.5px solid;
+	border-color:#0000001c;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:33px;
+	border-radius:9px;
+ }
+.chart2{
+	border:1.5px solid;
+	border-color:#0000001c;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:20px;
+	border-radius:9px;
+ }
+
+.productlist table{
+	border-collapse:separate;
+	border-spacing:49px;
+ }
+.banner img{
+	width:280px;
+	height:180px;
+	padding:0px 5px;
+
+ }
+.header3{
+	text-align:left;
+	color:red;
+	font-family:'Open Sans', sans-serif;
+	color:#e1703ae8; 
+ }
+.paragraph2{
+	text-align:left;
+	font-family:'Open Sans', sans-serif;
+	font-size:16px;
+ }
+.header4{
+	text-align:left;
+	color:#e1703ae8;
+ }
+.header5{
+	color:#29272785;
+ }
+.chart2 table{
+	border-collapse:separate;
+	border-spacing:0px;
+
+ }
+.chartprice table tr td{
+	padding:0px 5px;
+
+ }
+.wrapper4 img{
+	width:1519px;
+	height:305px;
+	margin-left:-22px;
+	margin-right:-22px;
+ }
+.wrapper4 figcaption{
+	color:#00000099;
+	font-family:'Open Sans', sans-serif;
+ }
+.footer1{
+	font-family:'Open Sans', sans-serif;
+	color:#00000099;
+	line-height:0; 
+ }
+.addtocart button {
+	background-color: #ff9800;
+	border: none;
+	border-radius: 4px;
+	border-top-left-radius:0px;
+ 	border-bottom-left-radius:0px;
+ }
+  .addtocart button img{
+  	width:120px;
+  	height:31px;
+ }
+ .addtocart input[type="number"]{
+ 	width:152px;
+ 	height:31px;
+ 	border-radius: 4px;
+ 	border-top-right-radius:0px;
+ 	border-bottom-right-radius:0px;
+ 	border: solid;
+ 	border-color: #0000001c;
+ 	border-right:none;
+ }
+ .addtocart table{
+ border-collapse: collapse;
+ }
+ .subscribe button {
+	background-color: #ff9e00cc;
+	border: none;
+	border-radius: 4px;
+	border-top-left-radius:0px;
+ 	border-bottom-left-radius:0px;
+ }
+ .subscribe input[type="text"]{
+ 	width:265px;
+ 	height:23px;
+ 	border-radius: 4px;
+ 	border-top-right-radius:0px;
+ 	border-bottom-right-radius:0px;
+ 	border: solid;
+ 	border-color: #0000001c;
+ 	border-right: none;
+ }
+.subscribe table{
+ border-collapse: collapse;
+ }
+
+.header10{
+   text-align:right;
+ }
+.footer3{
+	text-align:center;
+ }
+.footer2 footer p a{
+	text-decoration:none;
+	color:#00000099;
+	font-family:'Open Sans', sans-serif;
+}
+.subscribe ul li{
+	list-style:none;
+	position:relative;
+}
+.chart5{
+	border:1px solid;
+	border-color:#afa9a936;
+    background-color:#afa9a936;
+}
+.header9, .footer2{
+	text-align:left;
+	font-family:'Open Sans', sans-serif;
+}
+.chart5 table{
+	border-collapse:separate;
+	border-spacing:114px;
+}
+.subscribe table{
+	border-collapse:collapse;
+}
+.chart5{
+	width: 1655px;
+    height: 439px;
+    margin-left:-22px;
+	margin-right:-22px;
+}
+.header12 a{
+	text-decoration:none;
+	font-family:'Open Sans', sans-serif;
+	color:#ff9800;
+   font-size:13px;
+}
+.header10 a{
+	text-decoration:none;
+	font-family:'Open Sans', sans-serif;
+	color:#ff9800;
+   font-size:13px;
+}
+.header11 a{
+	text-decoration:none;
+	font-family:'Open Sans', sans-serif;
+	color:#ff9800;
+   font-size:16px;
+}
+
+.chart6 table tr td{
+    border: 2px solid;
+    border-color:#3e3a3a52;
+    border-top:none;
+    border-bottom:none;
+}
+.chart6 table{
+	border-collapse:collapse;
+}
+.footer3{
+	color:#3e3a3aa1;
+	font-family:'Open Sans', sans-serif;
+	font-size:13px;
+}
