@@ -1,2 +1,2 @@
-# ecommerce-webpage-HTML---CSS
+# Ecommerce Webpage
 ## Done using HTML & CSS
